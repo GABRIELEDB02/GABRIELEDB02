@@ -15,6 +15,7 @@ I had the opportunity to work on several interesting use cases across various in
 🎯 Churn prediction\
 🎯 Data-driven rightsizing\
 🎯 Log Analytics\
+🎯 Predictive maintenance\
 🎯 Data monetization (selling data to third parties)\
 🎯 ESG score prediction\
 🎯 Process optimization (process mining)
