@@ -6,7 +6,7 @@ I'm a data scientist passionate about Data Aanalytics and Business Intelligence.
 
 ## My Experiences 🌱
 
-In the last 7 years I worked for main italian banking groups and big players of real estate, consumer goods and manufacturing industries bringing my skill to build great data pipelines. 
+In the last 7 years I worked for main italian banking groups and big players of real estate, consumer goods and manufacturing industries bringing my skills to build great data pipelines. 
 
 ## Tech Stack 🛠
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
