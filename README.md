@@ -4,6 +4,11 @@
 
 I'm a data scientist passionate about Data Analytics and Business Intelligence. I love to solve business issues manipulating data and developing machine learning models.
 
+## My conviction 💡
+1. To deliver real value for companies, you need to combine analytics and business skills. Having only one of these two often won't be enough.
+2. Data use cases should deliver high ROI. That's why it is always useful to work on educated guesses before starting working on the use case.
+3. Quality of output is directly correlated to quality of input (garbage-in/garbage-out rule). Time spent on data collection, data cleansing and feature engineering is always well spent.
+
 ## My Experiences 🌱
 
 I hold an executive master in Big Data Management and a master degree in Business Management with a strong focus on Quantitative Finance. In the last 7 years I worked for various consulting firms helping leading italian and european banking groups as well as key players of real estate, consumer goods and manufacturing industries in building great data pipelines. 
