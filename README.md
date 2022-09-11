@@ -6,7 +6,7 @@ I'm a data scientist passionate about Data Analytics and Business Intelligence. 
 
 ## My Experiences 🌱
 
-In the last 7 years I worked for leading italian and european banking groups and key players of real estate, consumer goods and manufacturing industries, always bringing my skills to build great data pipelines. 
+I hold an executive master in Big Data Management and a master degree in Business Management with a strong focus on quantitative finance. In the last 7 years I worked for leading italian and european banking groups and key players of real estate, consumer goods and manufacturing industries, always bringing my skills to build great data pipelines. 
 
 I had the opportunity to work on several interesting use cases across various industries:\
 \
