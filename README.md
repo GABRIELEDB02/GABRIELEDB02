@@ -12,7 +12,7 @@ In the last 7 years I worked for main italian banking groups and big players of 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
-![KNIME](https://img.shields.io/badge/-Knime-05122A?style=flat&logo=knime)&nbsp;\
+![SQL](https://img.shields.io/badge/-Sql-05122A?style=flat&logo=sql)&nbsp;\
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
