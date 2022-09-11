@@ -21,3 +21,4 @@ In the last 7 years I worked for main italian banking groups and big players of 
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;\
 ![Octoparse](https://img.shields.io/badge/-Octoparse-05122A?style=flat&logo=orange)&nbsp;
 ![Orange](https://img.shields.io/badge/-Orange-05122A?style=flat&logo=octoparse)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=excel)&nbsp;
