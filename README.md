@@ -13,3 +13,4 @@ In the last 7 years I worked for main italian banking groups and big players of 
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![RStudio](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
+![RStudio](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
