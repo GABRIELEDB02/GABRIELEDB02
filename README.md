@@ -8,6 +8,7 @@ I'm a data scientist passionate about Data Analytics and Business Intelligence. 
 1. To deliver real value for companies, you need to combine analytics and business skills. Having only one of these two often won't be enough.
 2. Data use cases should deliver high ROI. That's why it is always useful to work on educated guesses before starting working on the use case.
 3. Quality of output is directly correlated to quality of input (garbage-in/garbage-out rule). Time spent on data collection, data cleansing and feature engineering is always well spent.
+4. Final goal is not the model itself but the business insights you can extract from the model you built. 
 
 ## My Experiences 🌱
 
