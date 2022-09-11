@@ -8,14 +8,14 @@ I'm a data scientist passionate about Data Analytics and Business Intelligence. 
 
 In the last 7 years I worked for leading italian and european banking groups and key players of real estate, consumer goods and manufacturing industries, always bringing my skills to build great data pipelines. 
 
-I had the opportunity to work on several different use cases:
+I had the opportunity to work on several different use cases:\
 🎯 Fraud Detection\
-🎯 Product return optimization
-🎯 Churn prediction
-🎯 Data-driven rightsizing
-🎯 Log Analytics
-🎯 Data monetization
-🎯 ESG score prediction
+🎯 Product return optimization\
+🎯 Churn prediction\
+🎯 Data-driven rightsizing\
+🎯 Log Analytics\
+🎯 Data monetization\
+🎯 ESG score prediction\
 🎯 Process optimization (process mining)
 
 ## Tech Stack 🛠
