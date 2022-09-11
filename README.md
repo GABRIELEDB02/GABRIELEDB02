@@ -17,4 +17,6 @@ In the last 7 years I worked for main italian banking groups and big players of 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;\
 ![KNIME](https://img.shields.io/badge/-Knime-05122A?style=flat&logo=KNIME)&nbsp;
 ![SAS](https://img.shields.io/badge/-Sas-05122A?style=flat&logo=SAS)&nbsp;
-![Foundry](https://img.shields.io/badge/-Foundry-05122A?style=flat&logo=foundry)&nbsp;
+![Foundry](https://img.shields.io/badge/-Foundry-05122A?style=flat&logo=foundry)&nbsp;\
+![Octoparse](https://img.shields.io/badge/-Octoparse-05122A?style=flat&logo=jupyter)&nbsp;
+![Orange](https://img.shields.io/badge/-Orange-05122A?style=flat&logo=jupyter)&nbsp;
