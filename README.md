@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there! Welcome to my Github Profile! 👋
 
-<!--
-**GABRIELEDB02/GABRIELEDB02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me ⚡
 
-Here are some ideas to get you started:
+I'm a data scientist passionate about Data Aanalytics and Business Intelligence. I love to solve business issues using data and machine learning models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Experiences 🌱
+
+In the last 7 years I worked for main italian banking groups and big players of real estate, consumer goods and manufacturing industries bringing my skill to build great data pipelines. 
+
+## Tech Stack 🛠
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
