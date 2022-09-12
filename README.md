@@ -46,6 +46,6 @@ I had the opportunity to work on several interesting use cases across various in
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;\
 ![Octoparse](https://img.shields.io/badge/-Octoparse-05122A?style=flat&logo=orange)&nbsp;
 ![Orange](https://img.shields.io/badge/-Orange-05122A?style=flat&logo=octoparse)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoftexcel)&nbsp;
+![Excel](https://img.shields.io/badge/-MS_Excel-05122A?style=flat&logo=microsoftexcel)&nbsp;
 ![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j)&nbsp;
 ![Colab](https://img.shields.io/badge/-Google_Colab-05122A?style=flat&logo=googlecolab)&nbsp;
