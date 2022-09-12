@@ -14,7 +14,7 @@ Time spent on data collection, data cleansing and feature engineering is always 
 
 ## Experiences 🌱
 
-I hold an executive master in Big Data Management and a master degree in Business Management with a strong focus on Quantitative Finance. In the last 7 years I worked for various consulting firms helping leading italian and european banking groups as well as key players of real estate, consumer goods and manufacturing industries in building great data pipelines. 
+I hold an executive master in Big Data Management and a master degree in Business Management with a strong focus on Quantitative Finance. In the last 7 years I worked for various consulting firms helping leading italian and european banking groups as well as key players of real estate, consumer goods and manufacturing industries in extracting business insights from data to be used for decision-making.
 
 I had the opportunity to work on several interesting use cases across various industries:\
 \
