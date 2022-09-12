@@ -32,8 +32,8 @@ I had the opportunity to work on several interesting use cases across various in
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
-![ApacheSpark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apachespark)&nbsp;\
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![ApacheSpark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apachespark)&nbsp;\
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Access](https://img.shields.io/badge/-MSAccess-05122A?style=flat&logo=microsoftaccess)&nbsp;
