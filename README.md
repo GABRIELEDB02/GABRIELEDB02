@@ -37,9 +37,9 @@ I had the opportunity to work on several interesting use cases across various in
 ![KNIME](https://img.shields.io/badge/-Knime-05122A?style=flat&logo=KNIME)&nbsp;
 ![SAS](https://img.shields.io/badge/-Sas-05122A?style=flat&logo=SAS)&nbsp;
 ![Foundry](https://img.shields.io/badge/-Foundry-05122A?style=flat&logo=foundry)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;\
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
+![Mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;\
 ![Octoparse](https://img.shields.io/badge/-Octoparse-05122A?style=flat&logo=orange)&nbsp;
 ![Orange](https://img.shields.io/badge/-Orange-05122A?style=flat&logo=octoparse)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=excel)&nbsp;
-![Mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j)&nbsp;
