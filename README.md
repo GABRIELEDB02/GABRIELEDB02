@@ -4,7 +4,7 @@
 
 I'm a data professional that love to solve real business issues by manipulating data and developing machine learning models. My daily job includes activities like preparing data for modeling, perform data exploration to detect patterns, develop supervised and unsupervised machine learning models, analyze outliers and build dashboards.
 
-## My convictions 💡
+## Convictions 💡
 1. To deliver real value for companies, you need to combine analytics and business skills. Having only one of these, often won't be enough.
 2. In real world, no pre-defined datasets exist. A tricky part of data scientist job is to understand which data to use for a specific use case. 
 3. Data use cases should deliver high ROI. That's why it is always a good idea to work on educated guesses before starting working on the use case.
@@ -12,7 +12,7 @@ I'm a data professional that love to solve real business issues by manipulating 
 Time spent on data collection, data cleansing and feature engineering is always well spent.
 4. Final goal is not the model itself but the business insights you can extract from the model you built. 
 
-## My Experiences 🌱
+## Experiences 🌱
 
 I hold an executive master in Big Data Management and a master degree in Business Management with a strong focus on Quantitative Finance. In the last 7 years I worked for various consulting firms helping leading italian and european banking groups as well as key players of real estate, consumer goods and manufacturing industries in building great data pipelines. 
 
