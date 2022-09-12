@@ -36,7 +36,7 @@ I had the opportunity to work on several interesting use cases across various in
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
-![Access](https://img.shields.io/badge/-MS Access-05122A?style=flat&logo=microsoftaccess)&nbsp;
+![Access](https://img.shields.io/badge/-MSAccess-05122A?style=flat&logo=microsoftaccess)&nbsp;
 ![PPT](https://img.shields.io/badge/-MS PPT-05122A?style=flat&logo=microsoftpowerpoint)&nbsp;\
 ![KNIME](https://img.shields.io/badge/-Knime-05122A?style=flat&logo=KNIME)&nbsp;
 ![SAS](https://img.shields.io/badge/-Sas-05122A?style=flat&logo=SAS)&nbsp;
