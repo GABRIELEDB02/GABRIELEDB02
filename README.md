@@ -2,7 +2,7 @@
 
 ## About Me ⚡
 
-I'm a data professional that love to solve real business issues by manipulating data and developing machine learning models. My daily job includes activities like preparing data for modeling, perform data exploration to detect patterns, develop supervised and unsupervised machine learning models, analyze outliers and build dashboards.
+I'm a data professional that love to solve real business issues by manipulating data and developing machine learning models. My daily job includes activities like select data for use case, prepare data for modeling, perform data exploration to detect patterns, develop supervised and unsupervised machine learning models, analyze outliers and build dashboards.
 
 ## Convictions 💡
 1. To deliver real value for companies, you need to combine analytics and business skills. Having only one of these, often won't be enough.
