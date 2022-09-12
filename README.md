@@ -39,7 +39,7 @@ I had the opportunity to work on several interesting use cases across various in
 ![Access](https://img.shields.io/badge/-MS_Access-05122A?style=flat&logo=microsoftaccess)&nbsp;
 ![PPT](https://img.shields.io/badge/-MS_PowerPoint-05122A?style=flat&logo=microsoftpowerpoint)&nbsp;\
 ![KNIME](https://img.shields.io/badge/-Knime-05122A?style=flat&logo=KNIME)&nbsp;
-![SAS](https://img.shields.io/badge/-Sas-05122A?style=flat&logo=sass)&nbsp;
+![SAS](https://img.shields.io/badge/-Sas-05122A?style=flat&logo=sas)&nbsp;
 ![Foundry](https://img.shields.io/badge/-Foundry-05122A?style=flat&logo=foundry)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
