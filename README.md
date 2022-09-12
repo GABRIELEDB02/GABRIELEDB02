@@ -31,16 +31,21 @@ I had the opportunity to work on several interesting use cases across various in
 ## Tech Stack 🛠
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;\
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
+![ApacheSpark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apachespark)&nbsp;\
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;\
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+![Access](https://img.shields.io/badge/-MS Access-05122A?style=flat&logo=microsoftaccess)&nbsp;
+![PPT](https://img.shields.io/badge/-MS PPT-05122A?style=flat&logo=microsoftpowerpoint)&nbsp;\
 ![KNIME](https://img.shields.io/badge/-Knime-05122A?style=flat&logo=KNIME)&nbsp;
 ![SAS](https://img.shields.io/badge/-Sas-05122A?style=flat&logo=SAS)&nbsp;
 ![Foundry](https://img.shields.io/badge/-Foundry-05122A?style=flat&logo=foundry)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
-![Mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;\
+![Mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Keras](https://img.shields.io/badge/-Google Keras-05122A?style=flat&logo=keras)&nbsp;\
 ![Octoparse](https://img.shields.io/badge/-Octoparse-05122A?style=flat&logo=orange)&nbsp;
 ![Orange](https://img.shields.io/badge/-Orange-05122A?style=flat&logo=octoparse)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=excel)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoftexcel)&nbsp;
 ![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j)&nbsp;
+![Colab](https://img.shields.io/badge/-Google Colab-05122A?style=flat&logo=googlecolab)&nbsp;
