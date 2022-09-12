@@ -2,7 +2,7 @@
 
 ## About Me ⚡
 
-I'm a data scientist passionate about Data Analytics and Business Intelligence. I love to solve business issues manipulating data and developing machine learning models.
+I'm a data scientist that love to solve real business issues by manipulating data and developing machine learning models. My daily job includes activities like preparing data for modeling, perform data exploration to detect pattern and analyze outliers.
 
 ## My convictions 💡
 1. To deliver real value for companies, you need to combine analytics and business skills. Having only one of these, often won't be enough.
