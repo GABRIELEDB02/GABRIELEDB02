@@ -48,4 +48,4 @@ I had the opportunity to work on several interesting use cases across various in
 ![Orange](https://img.shields.io/badge/-Orange-05122A?style=flat&logo=octoparse)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoftexcel)&nbsp;
 ![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j)&nbsp;
-![Colab](https://img.shields.io/badge/-Google Colab-05122A?style=flat&logo=googlecolab)&nbsp;
+![Colab](https://img.shields.io/badge/-GoogleColab-05122A?style=flat&logo=googlecolab)&nbsp;
