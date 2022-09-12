@@ -41,7 +41,7 @@ I had the opportunity to work on several interesting use cases across various in
 ![KNIME](https://img.shields.io/badge/-Knime-05122A?style=flat&logo=KNIME)&nbsp;
 ![SAS](https://img.shields.io/badge/-Sas-05122A?style=flat&logo=SAS)&nbsp;
 ![Foundry](https://img.shields.io/badge/-Foundry-05122A?style=flat&logo=foundry)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;\
 ![Octoparse](https://img.shields.io/badge/-Octoparse-05122A?style=flat&logo=orange)&nbsp;
