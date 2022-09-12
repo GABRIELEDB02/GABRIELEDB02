@@ -6,8 +6,9 @@ I'm a data scientist that love to solve real business issues by manipulating dat
 
 ## My convictions 💡
 1. To deliver real value for companies, you need to combine analytics and business skills. Having only one of these, often won't be enough.
-2. Data use cases should deliver high ROI. That's why it is always a good idea to work on educated guesses before starting working on the use case.
-3. Quality of output is directly correlated to quality of input (garbage-in/garbage-out rule).\
+2. In real world, no pre-defined datasets exist. A tricky part of data scientist job is to understand which data should be used for a specific use case. 
+3. Data use cases should deliver high ROI. That's why it is always a good idea to work on educated guesses before starting working on the use case.
+4. Quality of output is directly correlated to quality of input (garbage-in/garbage-out rule).\
 Time spent on data collection, data cleansing and feature engineering is always well spent.
 4. Final goal is not the model itself but the business insights you can extract from the model you built. 
 
