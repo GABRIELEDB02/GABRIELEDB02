@@ -26,7 +26,8 @@ I had the opportunity to work on several interesting use cases across various in
 🎯 Predictive maintenance\
 🎯 Data monetization (selling data to third parties)\
 🎯 ESG score prediction\
-🎯 Process optimization (process mining)
+🎯 Process optimization (process mining)\
+🎯 KPIs/KRIs Monitoring Dashboards
 
 ## Tech Stack 🛠
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
